@@ -4,7 +4,7 @@ A simple bank account program implemented in Golang
 
 [![BuildStatus](https://travis-ci.org/ak-sahli/kata-bank-golang.svg?branch=master)](https://travis-ci.org/ak-sahli/kata-bank-golang)
 [![codecov](https://codecov.io/gh/ak-sahli/kata-bank-golang/branch/master/graph/badge.svg)](https://codecov.io/gh/ak-sahli/kata-bank-golang)
-[![SoftwareLicense](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)](https://github.com/vendor/package/blob/master/LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Features
 * Withdraw/deposit a valid amount of money in/from the account
