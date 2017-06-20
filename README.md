@@ -1,6 +1,8 @@
-# Kata : Bank Account
+# Golang TDD Practice : Bank Account
 
 A simple bank account program implemented in Golang
+
+[![CircleCI](https://circleci.com/gh/ak-sahli/kata-bank-golang.svg?style=svg)](https://circleci.com/gh/ak-sahli/kata-bank-golang)
 
 ### Features
 * Withdraw/deposit a valid amount of money in/from the account
